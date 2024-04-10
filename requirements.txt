@@ -1,0 +1,6 @@
+torch
+torch-summary
+sentencepiece
+tqdm
+numpy
+pandas
